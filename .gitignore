@@ -1,0 +1,9 @@
+*.pdf
+*.tex
+*.html
+anki.*.csv
+*ltxpng*
+images/*
+ltximg/*
+/#*#
+*.log
